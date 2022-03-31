@@ -32,4 +32,4 @@ Last Frontend Marathon (JavaScript + React + TypeScript + NodeJS)
 ************************************************************************************
 **Language:**
 
-English - B1
+English - B1.
