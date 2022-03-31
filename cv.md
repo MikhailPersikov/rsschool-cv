@@ -1,6 +1,6 @@
 #  Mikhail Persikov
 
-## Junior Frontend Developer
+##  Frontend Developer
 ************************************************************************************
 **Contacts:**
 
